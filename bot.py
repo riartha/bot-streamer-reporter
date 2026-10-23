@@ -13,7 +13,7 @@ import sys
 # ==========================================
 SCOPE = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
 CREDENTIALS_FILE = "credentials.json"
-SPREADSHEET_ID = ""
+SPREADSHEET_ID = " "
 
 SHEET_NAME_ABSEN = "Sheet Absensi Only (Test)"
 SHEET_NAME_REWARD = "Sheet Reward Streamer"
